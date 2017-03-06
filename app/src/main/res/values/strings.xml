@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Tech_Studies</string>
+
+    <string name="settings_short_name">好好学习</string>
+    <string name="settings_long_name">好好学习，天天向上</string>
+    <string name="settings_disable_msg">自动生成快捷方式的功能关闭</string>
+</resources>
