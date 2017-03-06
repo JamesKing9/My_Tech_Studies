@@ -62,7 +62,7 @@ build/
 
 # IntelliJ specific files/directories
 out
-.idea
+/.idea
 *.ipr
 *.iws
 *.iml
